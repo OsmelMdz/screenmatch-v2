@@ -26,7 +26,7 @@ Como parte del proyecto, desarrollé **Screenmatch** versión 2, una aplicación
 
 1. Clona el repositorio en tu máquina local.
 2. Abre el proyecto con IntelliJ IDEA.
-3. Ejecuta el archivo `Principal.java` como aplicación Java.
+3. Ejecuta el archivo `PrincipalConListas.java` como aplicación Java, ubicado en el paquete `com.aluracursos.screenmatch.principal`.
 
 ## Lo aprendido en este curso
 - Creación y gestión de listas dinámicas con `ArrayList`.
